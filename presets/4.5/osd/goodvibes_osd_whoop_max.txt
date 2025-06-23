@@ -130,3 +130,4 @@ set osd_aux_symbol = 65
 set osd_canvas_width = 30
 set osd_canvas_height = 13
 set osd_craftname_msgs = OFF
+set stats_min_armed_time_s = 30
